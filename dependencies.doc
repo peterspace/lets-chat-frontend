@@ -1,0 +1,7 @@
+client
+
+dotenv formik react-dropzone react-redux redux-persist yup @emotion/react @emotion/styled @mui/icons-material @mui/material @reduxjs/toolkit
+
+server
+
+bcrypt body-parser cors dotenv express gridfs-stream helmet jsonwebtoken mongoose morgan multer multer-gridfs-storage
